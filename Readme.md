@@ -67,4 +67,18 @@ In this workshop, you are going to write instructions for tests, often known as 
 
 ### Test Specs
 
+Funtional test specifications should take the form of: (GIVEN) some context. (WHEN) some action is carried out. (THEN) a particular set of observable consequences should obtain
+
+GIVEN I am a new user visiting the site
+
+WHEN [] THAN 
+
+WHEN [] THAN 
+
+WHEN [] THAN 
+
+WHEN [] THAN 
+
+WHEN [] THAN 
+
 
