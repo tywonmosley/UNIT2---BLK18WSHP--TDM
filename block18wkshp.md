@@ -20,10 +20,10 @@ In this workshop, you are going to write instructions for tests, often known as 
 
 ### Expectations
 
-- The function will takes the argument
+- The function will take the argument
 - The function will return a number with a product of the numbers provided
-- The function will return a undefined or error when non-numberic charaters are provided
-- The function will return zero when the number zero is provided with other number
+- The function will return an undefined or error when non-numeric characters are provided
+- The function will return zero when the number zero is provided with other numbers
 - The function will provide a number and not a string
 
 ### Test Specs (function call multiplication)
@@ -42,10 +42,10 @@ In this workshop, you are going to write instructions for tests, often known as 
 ### Expectations
 
 - The function will take the arguments
-- The function will generate new array when two arrays with odd numbers are provided within both arrays
-- The function will gererate will indentify odd numbers 
+- The function will generate a new array when two arrays with odd numbers are provided within both arrays
+- The function will generate will identify odd numbers 
 - The function will generate no array when no odd numbers are provided
-- The function will provided a undefine when non numberic charaters are provided
+- The function will provide an undefine when non-numeric characters are provided
 
 ### Test Specs  (function call "concatOdds")
 
@@ -56,7 +56,7 @@ In this workshop, you are going to write instructions for tests, often known as 
 
 
 ## Functional Test -- Shopping Cart:
-1. A shopping cart checkout feature that allows a user to check out as a guest (without an account), or as a logged-in user. They should be allowed to do either, but should be asked if they want to create an account or log in if they check out as a guest.
+1. A shopping cart checkout feature that allows a user to check out as a guest (without an account) or as a logged-in user. They should be allowed to do either but should be asked if they want to create an account or log in if they check out as a guest.
 
 
 ### Expectations
