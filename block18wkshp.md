@@ -61,15 +61,8 @@ In this workshop, you are going to write instructions for tests, often known as 
 
 ### Expectations
 
-- 
--
--
--
+
 
 ### Test Specs
 
-- Expect [] to be []
-- Expect [] to be []
-- Expect [] to be []
-- Expect [] to be []
-- Expect [] to be []
+
