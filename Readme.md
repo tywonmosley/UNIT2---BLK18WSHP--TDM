@@ -60,7 +60,9 @@ In this workshop, you are going to write instructions for tests, often known as 
 
 
 ### Expectations
-
+- When user move forward with purchase an option is provided to moved forward with or without account
+- If user want to use account or create one user can create an account or login and items remains in cart during transaction
+- When user is able provide information like email, address, name and payment information and remain stored until transaction is completed
 
 
 ### Test Specs
