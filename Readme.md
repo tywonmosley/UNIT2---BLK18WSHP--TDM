@@ -69,16 +69,18 @@ In this workshop, you are going to write instructions for tests, often known as 
 
 Funtional test specifications should take the form of: (GIVEN) some context. (WHEN) some action is carried out. (THEN) a particular set of observable consequences should obtain
 
-GIVEN I am a new user visiting the site
+GIVEN I am a new user visiting the site as a guest purchase items
 
-WHEN [] THAN 
+WHEN I have put items to cart THAN I should see the cart with items choose
 
-WHEN [] THAN 
+WHEN I am the at the cart about to move for to finalize my purchase THAN I should see a button that will move me forward.
 
-WHEN [] THAN 
+WHEN I hit the button to finalize my purchase THAN it should provide an option to move forward as a guest or create a new acount or log into a existing account
 
-WHEN [] THAN 
+WHEN I choose to create or log into account THAN pop-up tab or window should appear
 
-WHEN [] THAN 
+WHEN I am complete login or creating an account THAN I should be able to refresh with all the items stored for purchase with the account reflecting logged in
+
+WHEN I confirmed all the information as for email, address, name and payment information THAN I should be able to hit the button to finalize the purchase
 
 
